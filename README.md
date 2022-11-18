@@ -1,31 +1,22 @@
 # Trabajo Crud
-Lo primero que debemos hacer es tener la aplicación xampp para correr el Apache y el MySQL y tener el visual studio code para iniciar a crear la aplicación.
+Descargar todos los archivos en una carpeta
 
-Paso 1:
+Vamos a descomprimir node_modules.7z
 
-crear una carpeta en el escritorio, llamada Taller CRUD.
+Vamos a unir la carpeta que queda despues de descomprimir con el resto de archivos y luego sacamos el 7z de los archivos
 
-paso 2:
+Abrimos xampp y ejecutamos apache y MySQL
 
-En el visual studio code abrimos la carpeta que nombramos Taller CRUD, seleccionamos donde new folder y creamos las siguientes carpetas:
+En VsCode abrimos la terminal con ctrl + ñ
 
-controllers
+En la terminal ponemos el comando npm start
 
-database
+Nos saldra lo siguiente: SERVER corriendo en http://localhost:5000
 
-node_modules
+sobre http://localhost:5000 presionamos ctrl + Click izquierdo 
 
-views
+y ya tendras la pagina creada
 
-paso 3:
+Se Reservan Todos Los Derechos Sobre Los Archivos De Este Repositorio 
 
-En el visual studio code creamos 4 archivos llamados:
-
-app.js
-
-package
-
-package-lock
-
-router.js
-
+© 2022 Mateo Vélez derechos de autor 2022.
