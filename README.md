@@ -11,9 +11,9 @@ En VsCode abrimos la terminal con ctrl + ñ
 
 En la terminal ponemos el comando npm start
 
-Nos saldra lo siguiente: SERVER corriendo en http://localhost:5000
+Nos saldra lo siguiente: SERVER corriendo en localhost:5000
 
-sobre http://localhost:5000 presionamos ctrl + Click izquierdo 
+sobre localhost:5000 presionamos ctrl + Click izquierdo 
 
 y ya tendras la pagina creada
 
